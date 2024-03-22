@@ -16,12 +16,7 @@ This library abstracts the complex command-line usage of ffmpeg into a fluent, e
 Via npm:
 
 ```sh
-$ npm install fluent-ffmpeg
-```
-
-Or as a submodule:
-```sh
-$ git submodule add git://github.com/schaermu/node-fluent-ffmpeg.git vendor/fluent-ffmpeg
+$ npm install fluent-ffmpeg-latest
 ```
 
 
